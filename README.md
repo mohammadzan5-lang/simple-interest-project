@@ -1,5 +1,5 @@
 # Simple Interest Calculator
-
+fix typo
 ## Description
 This project is a simple interest calculator that calculates the interest based on the principal amount, rate of interest, and time period.
 
