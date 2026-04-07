@@ -2,7 +2,7 @@
 fix typo
 ## Description
 This project is a simple interest calculator that calculates the interest based on the principal amount, rate of interest, and time period.
-
+this is a simple fix
 ## How it works
 The calculator takes three inputs:
 - Principal amount (P)
